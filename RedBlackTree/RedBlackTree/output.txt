@@ -1,0 +1,80 @@
+Insert 9
+Inorder : 9(B) 
+Preorder : 9(B) 
+Postorder : 9(B) 
+
+Insert 28
+Inorder : 9(B) 28(R) 
+Preorder : 9(B) 28(R) 
+Postorder : 28(R) 9(B) 
+
+Insert 14
+Inorder : 9(R) 14(B) 28(R) 
+Preorder : 14(B) 9(R) 28(R) 
+Postorder : 9(R) 28(R) 14(B) 
+
+Insert 7
+Inorder : 7(R) 9(B) 14(B) 28(B) 
+Preorder : 14(B) 9(B) 7(R) 28(B) 
+Postorder : 7(R) 9(B) 28(B) 14(B) 
+
+Insert 22
+Inorder : 7(R) 9(B) 14(B) 22(R) 28(B) 
+Preorder : 14(B) 9(B) 7(R) 28(B) 22(R) 
+Postorder : 7(R) 9(B) 22(R) 28(B) 14(B) 
+
+Insert 11
+Inorder : 7(R) 9(B) 11(R) 14(B) 22(R) 28(B) 
+Preorder : 14(B) 9(B) 7(R) 11(R) 28(B) 22(R) 
+Postorder : 7(R) 11(R) 9(B) 22(R) 28(B) 14(B) 
+
+Insert 34
+Inorder : 7(R) 9(B) 11(R) 14(B) 22(R) 28(B) 34(R) 
+Preorder : 14(B) 9(B) 7(R) 11(R) 28(B) 22(R) 34(R) 
+Postorder : 7(R) 11(R) 9(B) 22(R) 34(R) 28(B) 14(B) 
+
+Insert 17
+Inorder : 7(R) 9(B) 11(R) 14(B) 17(R) 22(B) 28(R) 34(B) 
+Preorder : 14(B) 9(B) 7(R) 11(R) 28(R) 22(B) 17(R) 34(B) 
+Postorder : 7(R) 11(R) 9(B) 17(R) 22(B) 34(B) 28(R) 14(B) 
+
+Insert 52
+Inorder : 7(R) 9(B) 11(R) 14(B) 17(R) 22(B) 28(R) 34(B) 52(R) 
+Preorder : 14(B) 9(B) 7(R) 11(R) 28(R) 22(B) 17(R) 34(B) 52(R) 
+Postorder : 7(R) 11(R) 9(B) 17(R) 22(B) 52(R) 34(B) 28(R) 14(B) 
+
+Insert 26
+Inorder : 7(R) 9(B) 11(R) 14(B) 17(R) 22(B) 26(R) 28(R) 34(B) 52(R) 
+Preorder : 14(B) 9(B) 7(R) 11(R) 28(R) 22(B) 17(R) 26(R) 34(B) 52(R) 
+Postorder : 7(R) 11(R) 9(B) 17(R) 26(R) 22(B) 52(R) 34(B) 28(R) 14(B) 
+
+Insert 13
+Inorder : 7(B) 9(R) 11(B) 13(R) 14(B) 17(R) 22(B) 26(R) 28(R) 34(B) 52(R) 
+Preorder : 14(B) 9(R) 7(B) 11(B) 13(R) 28(R) 22(B) 17(R) 26(R) 34(B) 52(R) 
+Postorder : 7(B) 13(R) 11(B) 9(R) 17(R) 26(R) 22(B) 52(R) 34(B) 28(R) 14(B) 
+
+Insert 40
+Inorder : 7(B) 9(R) 11(B) 13(R) 14(B) 17(R) 22(B) 26(R) 28(R) 34(R) 40(B) 52(R) 
+Preorder : 14(B) 9(R) 7(B) 11(B) 13(R) 28(R) 22(B) 17(R) 26(R) 40(B) 34(R) 52(R) 
+Postorder : 7(B) 13(R) 11(B) 9(R) 17(R) 26(R) 22(B) 34(R) 52(R) 40(B) 28(R) 14(B) 
+
+Insert 20
+Inorder : 7(B) 9(B) 11(B) 13(R) 14(B) 17(B) 20(R) 22(R) 26(B) 28(B) 34(R) 40(B) 52(R) 
+Preorder : 14(B) 9(B) 7(B) 11(B) 13(R) 28(B) 22(R) 17(B) 20(R) 26(B) 40(B) 34(R) 52(R) 
+Postorder : 7(B) 13(R) 11(B) 9(B) 20(R) 17(B) 26(B) 22(R) 34(R) 52(R) 40(B) 28(B) 14(B) 
+
+Insert 10
+Inorder : 7(B) 9(B) 10(R) 11(B) 13(R) 14(B) 17(B) 20(R) 22(R) 26(B) 28(B) 34(R) 40(B) 52(R) 
+Preorder : 14(B) 9(B) 7(B) 11(B) 10(R) 13(R) 28(B) 22(R) 17(B) 20(R) 26(B) 40(B) 34(R) 52(R) 
+Postorder : 7(B) 10(R) 13(R) 11(B) 9(B) 20(R) 17(B) 26(B) 22(R) 34(R) 52(R) 40(B) 28(B) 14(B) 
+
+Insert 5
+Inorder : 5(R) 7(B) 9(B) 10(R) 11(B) 13(R) 14(B) 17(B) 20(R) 22(R) 26(B) 28(B) 34(R) 40(B) 52(R) 
+Preorder : 14(B) 9(B) 7(B) 5(R) 11(B) 10(R) 13(R) 28(B) 22(R) 17(B) 20(R) 26(B) 40(B) 34(R) 52(R) 
+Postorder : 5(R) 7(B) 10(R) 13(R) 11(B) 9(B) 20(R) 17(B) 26(B) 22(R) 34(R) 52(R) 40(B) 28(B) 14(B) 
+
+Insert 16
+Inorder : 5(R) 7(B) 9(B) 10(R) 11(B) 13(R) 14(B) 16(R) 17(B) 20(R) 22(R) 26(B) 28(B) 34(R) 40(B) 52(R) 
+Preorder : 14(B) 9(B) 7(B) 5(R) 11(B) 10(R) 13(R) 28(B) 22(R) 17(B) 16(R) 20(R) 26(B) 40(B) 34(R) 52(R) 
+Postorder : 5(R) 7(B) 10(R) 13(R) 11(B) 9(B) 16(R) 20(R) 17(B) 26(B) 22(R) 34(R) 52(R) 40(B) 28(B) 14(B) 
+

@@ -1,0 +1,4 @@
+﻿  source.c
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\simplepath\simplepath\source.c(111): warning C4098: 'dfs': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\simplepath\simplepath\source.c(116): warning C4098: 'dfs': 'void' 함수에서 값을 반환하고 있습니다.
+  Simplepath.vcxproj -> C:\Users\PC\Desktop\학교\수업\3-2\자료구조프로그래밍\작업\Simplepath\Debug\Simplepath.exe

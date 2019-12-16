@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stack_Permutation", "Stack_Permutation\Stack_Permutation.vcxproj", "{C8A0015C-8DF2-425F-A624-5FCFD702B452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8A0015C-8DF2-425F-A624-5FCFD702B452}.Debug|x64.ActiveCfg = Debug|x64
+		{C8A0015C-8DF2-425F-A624-5FCFD702B452}.Debug|x64.Build.0 = Debug|x64
+		{C8A0015C-8DF2-425F-A624-5FCFD702B452}.Debug|x86.ActiveCfg = Debug|Win32
+		{C8A0015C-8DF2-425F-A624-5FCFD702B452}.Debug|x86.Build.0 = Debug|Win32
+		{C8A0015C-8DF2-425F-A624-5FCFD702B452}.Release|x64.ActiveCfg = Release|x64
+		{C8A0015C-8DF2-425F-A624-5FCFD702B452}.Release|x64.Build.0 = Release|x64
+		{C8A0015C-8DF2-425F-A624-5FCFD702B452}.Release|x86.ActiveCfg = Release|Win32
+		{C8A0015C-8DF2-425F-A624-5FCFD702B452}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4051DA5A-1412-4AD4-ACC6-C09B9B6AC068}
+	EndGlobalSection
+EndGlobal

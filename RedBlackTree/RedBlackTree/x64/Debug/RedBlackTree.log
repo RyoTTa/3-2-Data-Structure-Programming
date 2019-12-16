@@ -1,0 +1,18 @@
+﻿  source.c
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\redblacktree\redblacktree\source.c(44): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\redblacktree\redblacktree\source.c(45): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\redblacktree\redblacktree\source.c(89): warning C4047: '함수': 'nodePointer *'의 간접 참조 수준이 'nodePointer **'과(와) 다릅니다.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\redblacktree\redblacktree\source.c(89): warning C4024: 'node_init': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\redblacktree\redblacktree\source.c(95): warning C4047: '함수': 'nodePointer'의 간접 참조 수준이 'nodePointer *'과(와) 다릅니다.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\redblacktree\redblacktree\source.c(95): warning C4024: 'inorder': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\redblacktree\redblacktree\source.c(98): warning C4047: '함수': 'nodePointer'의 간접 참조 수준이 'nodePointer *'과(와) 다릅니다.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\redblacktree\redblacktree\source.c(98): warning C4024: 'preorder': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\redblacktree\redblacktree\source.c(101): warning C4047: '함수': 'nodePointer'의 간접 참조 수준이 'nodePointer *'과(와) 다릅니다.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\redblacktree\redblacktree\source.c(101): warning C4024: 'postorder': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\redblacktree\redblacktree\source.c(85): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\redblacktree\redblacktree\source.c(88): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+  RedBlackTree.vcxproj -> C:\Users\PC\Desktop\학교\수업\3-2\자료구조프로그래밍\작업\RedBlackTree\x64\Debug\RedBlackTree.exe

@@ -1,0 +1,15 @@
+﻿  source.c
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\leftist tree_2\leftist tree_2\source.c(44): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\leftist tree_2\leftist tree_2\source.c(48): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\leftist tree_2\leftist tree_2\source.c(53): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\leftist tree_2\leftist tree_2\source.c(56): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\leftist tree_2\leftist tree_2\source.c(63): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\leftist tree_2\leftist tree_2\source.c(123): warning C4047: '=': 'leftistTree *'의 간접 참조 수준이 'leftistTree'과(와) 다릅니다.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\leftist tree_2\leftist tree_2\source.c(125): warning C4047: '=': 'leftistTree'의 간접 참조 수준이 'leftistTree *'과(와) 다릅니다.
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\leftist tree_2\leftist tree_2\source.c(174): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  Leftist Tree_2.vcxproj -> C:\Users\PC\Desktop\학교\수업\3-2\자료구조프로그래밍\작업\Leftist Tree_2\Debug\Leftist Tree_2.exe

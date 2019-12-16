@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\pc\desktop\학교\수업\3-2\자료구조프로그래밍\작업\stack_permutation\stack_permutation\소스.cpp(18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+  Stack_Permutation.vcxproj -> C:\Users\PC\Desktop\학교\수업\3-2\자료구조프로그래밍\작업\Stack_Permutation\Debug\Stack_Permutation.exe

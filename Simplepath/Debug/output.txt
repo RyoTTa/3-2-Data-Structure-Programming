@@ -1,0 +1,89 @@
+A -> B -> E -> F -> G -> H -> I -> J -> K -> L -> M -> N -> O -> Z
+A -> B -> E -> F -> G -> H -> I -> J -> K -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> E -> F -> G -> H -> I -> J -> K -> L -> M -> Y -> Z
+A -> B -> E -> F -> G -> H -> I -> J -> K -> L -> M -> X -> Y -> Z
+A -> B -> E -> F -> G -> H -> I -> J -> L -> M -> N -> O -> Z
+A -> B -> E -> F -> G -> H -> I -> J -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> E -> F -> G -> H -> I -> J -> L -> M -> Y -> Z
+A -> B -> E -> F -> G -> H -> I -> J -> L -> M -> X -> Y -> Z
+A -> B -> E -> F -> G -> H -> I -> X -> Y -> Z
+A -> B -> E -> F -> G -> H -> I -> L -> M -> N -> O -> Z
+A -> B -> E -> F -> G -> H -> I -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> E -> F -> G -> H -> I -> L -> M -> Y -> Z
+A -> B -> E -> F -> G -> H -> I -> L -> M -> X -> Y -> Z
+A -> B -> E -> F -> G -> H -> J -> K -> L -> M -> N -> O -> Z
+A -> B -> E -> F -> G -> H -> J -> K -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> E -> F -> G -> H -> J -> K -> L -> M -> Y -> Z
+A -> B -> E -> F -> G -> H -> J -> K -> L -> M -> X -> Y -> Z
+A -> B -> E -> F -> G -> H -> J -> L -> M -> N -> O -> Z
+A -> B -> E -> F -> G -> H -> J -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> E -> F -> G -> H -> J -> L -> M -> Y -> Z
+A -> B -> E -> F -> G -> H -> J -> L -> M -> X -> Y -> Z
+A -> B -> E -> F -> H -> I -> J -> K -> L -> M -> N -> O -> Z
+A -> B -> E -> F -> H -> I -> J -> K -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> E -> F -> H -> I -> J -> K -> L -> M -> Y -> Z
+A -> B -> E -> F -> H -> I -> J -> K -> L -> M -> X -> Y -> Z
+A -> B -> E -> F -> H -> I -> J -> L -> M -> N -> O -> Z
+A -> B -> E -> F -> H -> I -> J -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> E -> F -> H -> I -> J -> L -> M -> Y -> Z
+A -> B -> E -> F -> H -> I -> J -> L -> M -> X -> Y -> Z
+A -> B -> E -> F -> H -> I -> X -> Y -> Z
+A -> B -> E -> F -> H -> I -> L -> M -> N -> O -> Z
+A -> B -> E -> F -> H -> I -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> E -> F -> H -> I -> L -> M -> Y -> Z
+A -> B -> E -> F -> H -> I -> L -> M -> X -> Y -> Z
+A -> B -> E -> F -> H -> J -> K -> L -> M -> N -> O -> Z
+A -> B -> E -> F -> H -> J -> K -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> E -> F -> H -> J -> K -> L -> M -> Y -> Z
+A -> B -> E -> F -> H -> J -> K -> L -> M -> X -> Y -> Z
+A -> B -> E -> F -> H -> J -> L -> M -> N -> O -> Z
+A -> B -> E -> F -> H -> J -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> E -> F -> H -> J -> L -> M -> Y -> Z
+A -> B -> E -> F -> H -> J -> L -> M -> X -> Y -> Z
+A -> B -> E -> K -> L -> M -> N -> O -> Z
+A -> B -> E -> K -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> E -> K -> L -> M -> Y -> Z
+A -> B -> E -> K -> L -> M -> X -> Y -> Z
+A -> B -> F -> G -> H -> I -> J -> K -> L -> M -> N -> O -> Z
+A -> B -> F -> G -> H -> I -> J -> K -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> F -> G -> H -> I -> J -> K -> L -> M -> Y -> Z
+A -> B -> F -> G -> H -> I -> J -> K -> L -> M -> X -> Y -> Z
+A -> B -> F -> G -> H -> I -> J -> L -> M -> N -> O -> Z
+A -> B -> F -> G -> H -> I -> J -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> F -> G -> H -> I -> J -> L -> M -> Y -> Z
+A -> B -> F -> G -> H -> I -> J -> L -> M -> X -> Y -> Z
+A -> B -> F -> G -> H -> I -> X -> Y -> Z
+A -> B -> F -> G -> H -> I -> L -> M -> N -> O -> Z
+A -> B -> F -> G -> H -> I -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> F -> G -> H -> I -> L -> M -> Y -> Z
+A -> B -> F -> G -> H -> I -> L -> M -> X -> Y -> Z
+A -> B -> F -> G -> H -> J -> K -> L -> M -> N -> O -> Z
+A -> B -> F -> G -> H -> J -> K -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> F -> G -> H -> J -> K -> L -> M -> Y -> Z
+A -> B -> F -> G -> H -> J -> K -> L -> M -> X -> Y -> Z
+A -> B -> F -> G -> H -> J -> L -> M -> N -> O -> Z
+A -> B -> F -> G -> H -> J -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> F -> G -> H -> J -> L -> M -> Y -> Z
+A -> B -> F -> G -> H -> J -> L -> M -> X -> Y -> Z
+A -> B -> F -> H -> I -> J -> K -> L -> M -> N -> O -> Z
+A -> B -> F -> H -> I -> J -> K -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> F -> H -> I -> J -> K -> L -> M -> Y -> Z
+A -> B -> F -> H -> I -> J -> K -> L -> M -> X -> Y -> Z
+A -> B -> F -> H -> I -> J -> L -> M -> N -> O -> Z
+A -> B -> F -> H -> I -> J -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> F -> H -> I -> J -> L -> M -> Y -> Z
+A -> B -> F -> H -> I -> J -> L -> M -> X -> Y -> Z
+A -> B -> F -> H -> I -> X -> Y -> Z
+A -> B -> F -> H -> I -> L -> M -> N -> O -> Z
+A -> B -> F -> H -> I -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> F -> H -> I -> L -> M -> Y -> Z
+A -> B -> F -> H -> I -> L -> M -> X -> Y -> Z
+A -> B -> F -> H -> J -> K -> L -> M -> N -> O -> Z
+A -> B -> F -> H -> J -> K -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> F -> H -> J -> K -> L -> M -> Y -> Z
+A -> B -> F -> H -> J -> K -> L -> M -> X -> Y -> Z
+A -> B -> F -> H -> J -> L -> M -> N -> O -> Z
+A -> B -> F -> H -> J -> L -> M -> N -> O -> X -> Y -> Z
+A -> B -> F -> H -> J -> L -> M -> Y -> Z
+A -> B -> F -> H -> J -> L -> M -> X -> Y -> Z
+total route : 88
